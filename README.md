@@ -31,7 +31,7 @@ After completing my studies in Electrical Engineering, I have spent the past few
 
 <a href="https://github.com/padina13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=padina13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=padina13)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=padina13&theme=dark&hide_border=true)
 
 
 <a href="http://www.github.com/padina13">
